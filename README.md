@@ -6,7 +6,6 @@ It uses the colors and themes inspired by the Jamaican flag, combined with a fun
 Link to project <a href="https://dougiethedevjamaicancalc.netlify.app/">here</a>
 
 ![Alt text](project2.png)
-)
 
 
 ## Tech Used
