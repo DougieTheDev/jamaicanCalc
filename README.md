@@ -13,5 +13,7 @@ HTML5<br>
 CSS3<br>
 Javascript<br>
 The Jamaican-themed calculator was built using a combination of HTML, CSS, and JavaScript<br>
-The HTML provided the basic structure, creating the layout for the calculator's buttons, display screen, and overall grid. CSS was then used to style the application, incorporating the vibrant colors of the Jamaican flag (green, yellow, and black) to give it a unique cultural touch.<br>
-In JavaScript, I implemented the calculator's functionality by handling button clicks and performing mathematical operations (addition, subtraction, multiplication, division). The logic behind the calculator was written to update the display dynamically based on user input and calculate results.<br>
+The HTML provided the basic structure, creating the layout for the calculator's buttons, display screen, and overall grid. <br><br>
+CSS was then used to style the application, incorporating the vibrant colors of the Jamaican flag (green, yellow, and black) to give it a unique cultural touch.<br><br>
+In JavaScript, I implemented the calculator's functionality by handling button clicks and performing mathematical operations (addition, subtraction, multiplication, division). <br><br>
+The logic behind the calculator was written to update the display dynamically based on user input and calculate results.<br><br>
