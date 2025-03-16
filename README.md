@@ -17,3 +17,6 @@ The HTML provided the basic structure, creating the layout for the calculator's 
 CSS was then used to style the application, incorporating the vibrant colors of the Jamaican flag (green, yellow, and black) to give it a unique cultural touch.<br><br>
 In JavaScript, I implemented the calculator's functionality by handling button clicks and performing mathematical operations (addition, subtraction, multiplication, division). <br><br>
 The logic behind the calculator was written to update the display dynamically based on user input and calculate results.<br><br>
+
+## Lesson learned
+I gained deeper understanding of JavaScript event listeners and how to manage button clicks and operations effectively.
